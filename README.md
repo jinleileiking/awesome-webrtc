@@ -11,9 +11,10 @@
 
 * https://w3c.github.io/webrtc-quic/
 
-## Homepage
+## Standards
 
 * https://webrtc.org/
+* https://www.w3.org/TR/webrtc/
 
 ## Urls
 
